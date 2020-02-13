@@ -1,9 +1,9 @@
 package Exercicio03;
 
 public class Livro {
-    protected String titulo;
-    protected String autor;
-    protected int numPaginas;
+    private String titulo;
+    private String autor;
+    private int numPaginas;
 
     //construtor
 
